@@ -3,8 +3,8 @@
   <p>Создаю современные веб-интерфейсы, которые вдохновляют и помогают</p>
   <p>
     <a href="https://github.com/Alisbur"><img src="https://img.shields.io/badge/GitHub-Alisbur-181717?style=flat-square&logo=github" alt="GitHub"></a>
-    <a href="mailto:alisbur@gmail.com"><img src="https://img.shields.io/badge/Email-alisbur@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">alisbur@gmail.com</a>
-    <a href="https://t.me/alisbur"><img src="https://img.shields.io/badge/Telegram-@alisbur_dev-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">@alisbur</a>
+    <a href="mailto:alisbur@gmail.com"><img src="https://img.shields.io/badge/Email-alisbur@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://t.me/alisbur"><img src="https://img.shields.io/badge/Telegram-@alisbur_dev-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Alisbur&style=flat-square&color=blue" alt="Profile views">
@@ -22,7 +22,7 @@
 - Оптимизация производительности и доступности
 - Проектирование масштабируемой архитектуры (Feature-Sliced Design, модульность)
 
-🎯 Открыт для сотрудничества над интересными проектами, особенно в сфере **EdTech**, **GameDev** и **интерактивных веб-сервисов**.
+🎯 Открыт для сотрудничества и работы над интересными проектами, особенно в сфере **EdTech**, **GameDev** и **интерактивных веб-сервисов**.
 
 ---
 
