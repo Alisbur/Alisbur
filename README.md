@@ -115,10 +115,3 @@
 Не стесняйтесь писать — всегда рад обсудить идеи и возможное партнёрство.
 
 ---
-
-<div align="center">
-  <i>«Код — это инструмент, а хороший интерфейс — искусство помогать людям»</i>
-  <br/>
-  <br/>
-  <img src="https://github.com/Alisbur/Alisbur/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
